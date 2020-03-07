@@ -3,7 +3,7 @@
 ## Trabalho Etanol ou Gasolina'?'
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_a2_pos)
-* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/app_combustivel_ts)
+* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/react_native_facef)
 * [Danilo S. Andrade](https://github.com/daniloandrade47/React_Unifacef.git)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/ReactGasolinaEtanol)
 * [CLEVELANDIO MARGIO DA SILVA](http://github.com/Paratiy/unifacef-react-nativive-meu)
@@ -20,14 +20,13 @@
 * [Bruno Pádua](https://snack.expo.io/@brunospadua/posto-combustivel)
 * [André Luis Borges](https://github.com/Andre-Borges/React-Native-Facef)
 * [Kenneth Gottschalk de Azevedo](https://github.com/kennethgaz/gasolina-ou-etanol)
+* [Caio Santos Freitas](https://github.com/caiosantosf/etanol-ou-gasolina-react-native)
 
 ## Trabalho Star Wars
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_app)
-* [Danilo S. Andrade](https://github.com/daniloandrade47/react_unifacef_StarWars.git)
-* [Bruno Brancalhão](https://github.com/brunobrancalhao/star-wars-app)
-* [Alex Felipe Barbosa](https://github.com/AlexFelipeBarbosa/unifacef_StarWars)
 * [Rafael Henrique de Morais](https://github.com/rhMorais/starwars-app)
 * [Danilo Alves](https://github.com/daniloalves19/starwars-app)
 * [Caio Cesar Alves Borges](https://github.com/caioborges89/star-wars-app)
 * [Miguel Molina] (https://github.com/miguelmolina78/starwars-app)
+* [Caio Santos Freitas](https://github.com/caiosantosf/star-wars-react-native)
